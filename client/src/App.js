@@ -1,9 +1,9 @@
-import Profile from './PortfolioContainer/Home/Profile.js'
+import PortfolioContainer from './PortfolioContainer/PortfolioContainer'
 import './App.css';
 
 const App = () => {
   return <div className='App'>
-  <Profile />
+  <PortfolioContainer />
   </div>
 }
 

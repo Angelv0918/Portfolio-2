@@ -34,15 +34,15 @@ export default function Profile() {
                 loop={Infinity}
                 steps={[
                   "Enthusiastic Dev 🔴",
-                  1000,
+                  1500,
                   "Full Stack Developer 💻",
-                  1000,
+                  1500,
                   "MERN Dev 😎",
-                  1000,
+                  1500,
                   "Python Dev 🐍",
-                  1000,
+                  1500,
                   "React/React Native Dev📱",
-                  1000,
+                  1500,
                 ]}
               />
             </h1>
@@ -54,7 +54,7 @@ export default function Profile() {
         </div>
         <div className="profile-options">
           <button className="btn primary-btn"> Hire Me </button>
-          <a href="Angel-resume.pdf" download="Angel Angel-resume.pdf">
+          <a href="Angel-resume.pdf" download="Angel-resume.pdf">
             <button className="btn highlighted-btn">Get Resume</button>
           </a>
         </div>
